@@ -76,7 +76,7 @@
 
 To gain a better understanding of Agency 0's underwhelmingly low progress within both years, we will add their total received documents together. From there, it's found that no values even match 25% - a quarter of work done showing its lack of upkeep despite its importance.
 
-<b>Summed completion rates, also poor:</b>
+<b>Summed up completion rates, also poor:</b>
 
 * 7520/60678 (16% digitised overall) 
 * 2034/60678 (4% returned overall)
@@ -115,7 +115,7 @@ To prevent the Scan Hub team from being immediately overwhelmed, as outlined wit
     <img width="70%" src="https://i.imgur.com/L7V6dRo.png">
 </p>
 
-* **Nov/Dec being responsible for the drastic increase:** The spike of received documents between November/December (4281 and 4729, summed to 9010) from 446 in October, had caused the overflow within 2021's documents.
+* **Nov/Dec being behind the drastic increase:** The spike of received documents between November/December (4281 and 4729, summed to 9010) from 446 in October, had caused the overflow within 2021's documents.
     * With no returned/digitised documents due to general neglect by then, this issue worsened and may have even went undetected.
 
 * **Consequences of unfinished work:** Being an older year (2023 when it was analyzed), it may be more challenging to attend to the unfinished work due to newer priorities, thus making it harder to resolve presently - a major reason why timeliness of output remains crucial within the document management.
@@ -127,7 +127,7 @@ To prevent the Scan Hub team from being immediately overwhelmed, as outlined wit
     <img width="70%" src="https://i.imgur.com/2mLot1Q.png">
 </p>
 
-* **Agency 0 further regressed in 2022:** Despite the downward trend in documents received, it still received 25294 documents over 20021 in 2021.
+* **Agency 0's further regression in 2022:** Despite the downward trend in documents received, it still received 25294 documents over 20021 in 2021.
     * Worsening, Agency 0 returned nor digitised any documents, creating even more outstanding work to finish on top of the previous year.
 
 * Agency 0 remains a problem to be urgently solved due to its sudden increase of documents per year and persistent neglect.
