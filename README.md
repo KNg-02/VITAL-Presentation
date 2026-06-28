@@ -70,6 +70,6 @@
 
 <b>Poor completion rates:</b>
 
-* 7520/20021 (37% digitised in 2021)
-* 2034/20021 (10% returned in 2021)
+* 7520/20021 (37% digitised within Agency 0 in 2021)
+* 2034/20021 (10% returned within Agency 0 in 2021)
 * Worse still, it had <b>0 digitised or returned documents in 2022</b>.
