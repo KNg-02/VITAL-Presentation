@@ -59,7 +59,7 @@
     <img width="100%" src="https://i.imgur.com/9GUgM1W.png">
 </p>
 
-<p>Agency 0 was found to be the biggest source of documents between the two years, followed by the high number of undigitised and unreturned amounts within the timeframe through itself, causing the gap in our trends. This is shown through the given percentage breakdown:</p>
+<p><b>Agency 0 was found to be the biggest source of documents between the two years</b>, followed by a high number of undigitised and unreturned amounts within the timeframe through itself, causing the gap in our trends. This is shown through the given percentage breakdown:</p>
 
 <b>Received documents:</b>
 
