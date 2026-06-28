@@ -118,4 +118,5 @@ To prevent the Scan Hub team from being immediately overwhelmed, as outlined wit
 * **Nov/Dec being responsible for the drastic increase:** The spike of received documents between November/December (4281 and 4729, summed to 9010) from 446 in October, had caused the overflow within 2021's documents.
     * With no returned/digitised documents due to general neglect by then, this issue worsened and may have even went undetected.
 
-* **Consequences of unfinished work, especially if large:** Being an older year (2023 when it was analyzed), it may be more challenging to attend to the unfinished work due to newer priorities, thus making it harder to resolve presently - a major reason why timeliness of output remains crucial within the document management.
+* **Consequences of unfinished work:** Being an older year (2023 when it was analyzed), it may be more challenging to attend to the unfinished work due to newer priorities, thus making it harder to resolve presently - a major reason why timeliness of output remains crucial within the document management.
+    * This worsens if the incomplete work in question is rather large, consuming more time as other projects could need to be halted, for longer periods.     
