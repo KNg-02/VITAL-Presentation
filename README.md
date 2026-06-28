@@ -126,3 +126,8 @@ To prevent the Scan Hub team from being immediately overwhelmed, as outlined wit
 <p align="center" width="100%">
     <img width="70%" src="https://i.imgur.com/2mLot1Q.png">
 </p>
+
+* **Agency 0 further regressed in 2022:** Despite the downward trend in documents received, it still received 25294 over 20021 from 2021.
+    * Worsening, Agency 0 returned nor digitised any documents, creating even more outstanding work to finish on top of the previous year.
+
+* Agency 0 remains a problem to be urgently solved due to its sudden increase of documents per year and persistent neglect.
