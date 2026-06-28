@@ -120,3 +120,9 @@ To prevent the Scan Hub team from being immediately overwhelmed, as outlined wit
 
 * **Consequences of unfinished work:** Being an older year (2023 when it was analyzed), it may be more challenging to attend to the unfinished work due to newer priorities, thus making it harder to resolve presently - a major reason why timeliness of output remains crucial within the document management.
     * This worsens if the incomplete work in question is rather large, lending the possibility of other projects needing to be halted, for possibly long periods of time to attend to them.
+
+<b>Complete lack of progress in 2022:</b>
+
+<p align="center" width="100%">
+    <img width="70%" src="https://i.imgur.com/2mLot1Q.png">
+</p>
