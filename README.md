@@ -132,9 +132,10 @@ To prevent the Scan Hub team from being immediately overwhelmed, as outlined wit
 
 * Agency 0 remains a problem to be urgently solved due to its sudden increase of documents per year and persistent neglect.
 
-<b>Vendor D, a key provider of Agency 0's overflowing documents</b>
+<b>Vendor D, a key provider of Agency 0's overflowing documents:</b>
 
 * 19811 documents out of 20021 in 2021 (98%)
 * 24671 documents out of 25294 in 2022 (97%)
 * **Possibility for easier management**: However, with only one vendor behind the huge influx of documents, it may be easier to control/investigate over having multiple of such to attend to.
 
+<h2 align="center">Recommendations and Next Steps</h2>
