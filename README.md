@@ -81,6 +81,6 @@ To gain a better understanding of Agency 0's underwhelmingly low progress within
 * 7520/60678 (16% digitised overall) 
 * 2034/60678 (4% returned overall)
 
-As Agency 0 is actually related to many Singaporean students' academic records, it becomes more urgent for it to be solved as soon as possible. From this point, we will find and elabortate on insights related to the biggest problems within its management.
+<b>As Agency 0 is actually related to many Singaporean students' academic records</b>, it becomes more urgent for it to be solved as soon as possible. From this point, we will focus on it before finding and elaborating on insights related to the biggest problems within its management.
 
 To prevent the Scan Hub team from being immediately overwhelmed, as outlined within the very beginning of this report, whose goal is to keep itself as concise as possible via delivering the most important insights, no other agencies will be covered, due to taking generally less volume as established by the percentages. Of course, the recommendations to solve Agency 0's issues can be applied for them if necessary.
