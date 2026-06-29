@@ -147,5 +147,5 @@ Based on the insights and findings above, we would recommend the <b>Scan Hub tea
 <h3>1. Check for sufficient manpower within the team</h3>
 If possible, provide more team members via taking in consideration the overall amount of documents to handle, especially with the possibility of agencies that send higher counts. If there already is sufficient manpower by this point, the team could be re-organized to decide what which members should be responsible for which agencies, while allocating more members to agencies with a history of a larger amount of documents.
 
-<h3>2. Solve the source of inconsistency of work</h3>
+<h3>2. Solve the reason behind inconsistency of work</h3>
 Investigate the general management of documents to know the actual reason behind inconsistent/incomplete digitisation and returning of the above between months, before taking appropriate action to solve them. It is also recommended to find out why digitisation and returning of documents cannot match (in 2021, why did returning only last for 2 months while digitisation lasted for 6).
