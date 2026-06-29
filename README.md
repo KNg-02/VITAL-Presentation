@@ -139,3 +139,12 @@ To prevent the Scan Hub team from being immediately overwhelmed, as outlined wit
 * **Possibility for easier management**: However, with only one vendor behind the huge influx of documents, it may be easier to control/investigate over having multiple of such to attend to.
 
 <h2 align="center">Recommendations and Next Steps</h2>
+Based on the insights and findings above, we would recommend the <b>Scan Hub team</b> to consider the following, which focus on two given strategies:
+
+* Re-examining the current status of the Scan Hub team
+* Addressing agencies and vendors individually via prioritized ones, or as a whole.
+
+<h3>1. Check for sufficient manpower within the team</h3>
+If possible, try to provide more team members via taking in consideration the overall amount of documents to handle, especially with the possibility of agencies that send higher counts. If there already is sufficient manpower by this point, try to organize the team to decide what which members should be responsible for which agencies, while allocating more members to agencies with a history of a larger amount of documents.
+
+<h3>1. Check for sufficient manpower within the team</h3>
