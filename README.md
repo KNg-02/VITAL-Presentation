@@ -37,11 +37,11 @@ When only filtering through Vendor D:
 * 19811/20021 (98% received in 2021)
 * 24671/25294 (97% received in 2021)
 
-Total digitisation/return progress through 2021 and 2022 summed up:
+Digitisation/return progress against received documents summed up, across both years:
 * 7380/44482 (16% digitised overall) 
 * 1894/44482 (4% returned overall)
 
-Note: There was no progress made in 2022, so these are really just stats from 2021.
+Note: There was no progress made in 2022, so excluding received, former stats are really from 2021.
 
 **2: Issues found across 2021/2022:**
 
