@@ -105,18 +105,27 @@ Note: There was no progress made in 2022, so excluding received, former stats ar
 * 20021/28930 (69% received in 2021)
 * 25294/31748 (79% received in 2022)
 
-<b>Poor completion rates:</b>
+<p>Shockingly, Vendor D was the source of almost all of Agency 0's documents across both years, causing its overflow.</p>
 
-* 7520/20021 (37% digitised within Agency 0 in 2021)
-* 2034/20021 (10% returned within Agency 0 in 2021)
+In 2021 and 2022 respectively, Vendor D provided:
+
+* 19811/20021 (98% provided in 2021)
+* 24671/25294 (97% provided in 2022)
+
+However, with only one vendor behind the huge influx of documents, it may be easier to control/investigate over having multiple of such to attend to.
+
+<b>Poor completion rates, based on Agency 0's Vendor D:</b>
+
+* 7380/19881 (37% digitised within Agency 0 in 2021)
+* 1894/19881 (9% returned within Agency 0 in 2021)
 * Worse still, it had <b>0 digitised or returned documents in 2022</b>.
 
-To gain a better understanding of Agency 0's underwhelmingly low progress within both years, we will add their total received documents together. From there, it's found that no values even match 25% - a quarter of work done showing its lack of upkeep despite its importance.
+To further highlight the underwhelmingly low progress within both years, we will add their total received documents together. From there, it's found that no values even match 25% - a quarter of work done showing its lack of upkeep despite its importance.
 
 <b>Summed up completion rates, also poor:</b>
 
-* 7520/60678 (16% digitised overall) 
-* 2034/60678 (4% returned overall)
+* 7380/44482 (16% digitised overall) 
+* 1894/44482 (4% returned overall)
 
 <b>As Agency 0 is actually related to many Singaporean students' academic records</b>, it becomes more urgent for it to be solved as soon as possible. From this point, we will focus on it before finding and elaborating on insights related to the biggest problems within its management.
 
