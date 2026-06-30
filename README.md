@@ -105,7 +105,7 @@ Note: There was no progress made in 2022, so excluding received, former stats ar
 * 20021/28930 (69% received in 2021)
 * 25294/31748 (79% received in 2022)
 
-<p>Shockingly, Vendor D was the source of almost all of Agency 0's documents across both years, causing its overflow.</p>
+<p>Shockingly, Vendor D was a key provider of almost all of Agency 0's documents across both years, causing its overflow.</p>
 
 In 2021 and 2022 respectively, Vendor D provided:
 
@@ -138,7 +138,7 @@ To prevent the Scan Hub team from being immediately overwhelmed, as outlined wit
 <b>Inconsistent returning in 2021:</b>
 
 <p align="center" width="100%">
-    <img width="70%" src="https://i.imgur.com/TgqqumG.png">
+    <img width="70%" src="https://i.imgur.com/sUDMz35.png">
 </p>
 
 * **Very short-lived period of progress, while incomplete:** Agency 0 in 2021 returned no documents beyond February, besides being incomplete for both months.
@@ -147,7 +147,7 @@ To prevent the Scan Hub team from being immediately overwhelmed, as outlined wit
 <b>Inconsistent digitisation in 2021:</b> 
 
 <p align="center" width="100%">
-    <img width="70%" src="https://i.imgur.com/f6LnDB0.png">
+    <img width="70%" src="https://i.imgur.com/VrCMvy6.png">
 </p>
 
 * **Initially consistent progress before halting:** Except for January, all received documents in Agency 0 had consistent digitisation from February to June - the first half of the year.
@@ -158,7 +158,7 @@ To prevent the Scan Hub team from being immediately overwhelmed, as outlined wit
 <b>Nov/Dec: A key factor in the large increase of documents in 2021:</b> 
 
 <p align="center" width="100%">
-    <img width="70%" src="https://i.imgur.com/L7V6dRo.png">
+    <img width="70%" src="https://i.imgur.com/TrgA1jM.png">
 </p>
 
 * **Nov/Dec being behind the drastic increase:** The spike of received documents between November/December (4281 and 4729, summed to 9010) from 446 in October, had caused the overflow within 2021's documents.
@@ -170,19 +170,13 @@ To prevent the Scan Hub team from being immediately overwhelmed, as outlined wit
 <b>Complete lack of progress in 2022:</b>
 
 <p align="center" width="100%">
-    <img width="70%" src="https://i.imgur.com/2mLot1Q.png">
+    <img width="70%" src="https://i.imgur.com/95zjiSH.png">
 </p>
 
 * **Agency 0's further regression in 2022:** Despite the downward trend in documents received, it still received 25294 documents over 20021 in 2021.
     * Worsening, Agency 0 returned nor digitised any documents, creating even more outstanding work to finish on top of the previous year.
 
 * Agency 0 remains a problem to be urgently solved due to its sudden increase of documents per year and persistent neglect.
-
-<b>Vendor D, a key provider of Agency 0's overflowing documents:</b>
-
-* 19811/20021 in 2021 (98%)
-* 24671/25294 in 2022 (97%)
-* **Possibility for easier management**: However, with only one vendor behind the huge influx of documents, it may be easier to control/investigate over having multiple of such to attend to.
 
 <h2 align="center">Recommendations and Next Steps</h2>
 Based on the insights and findings above, we would recommend the <b>Scan Hub team</b> to consider the following, which focus on two given strategies:
