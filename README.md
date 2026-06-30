@@ -47,7 +47,7 @@ Note: There was no progress made in 2022, so these are really just stats from 20
 
 2021:
 * Incomplete counts of work (e.g. 1423/1892 digitised in January)
-* Work suddenly stopping (work performed in Jan - February, before abruptly halting for the rest on the year, through reflecting 0 digitisation/returns)
+* Work suddenly stopping (work performed in January - February, before abruptly halting for the rest on the year, through reflecting 0 digitisation/returns)
 * Lack of consistency between digitisation and returning of documents (digtisation lasted 6 months, while returning lasted 2)
 
 2022:
@@ -61,6 +61,9 @@ Note: There was no progress made in 2022, so these are really just stats from 20
 <p align="center" width="100%">
     <img width="100%" src="https://i.imgur.com/5sB1DUU.png">
 </p>
+
+**3: Key Recommendations**
+* Woah! Don't forget to update stuff below!
 
 <p>It was decided to start with a line graph to display the trend of document management across 2017 - 2022, allowing us to immediately get a top-level overview of the amount of work complete against received ones over the five years across six categories, and then proceed through fixing given year(s) of note.</p> 
     
