@@ -54,7 +54,10 @@ Note: There was no progress made in 2022, so excluding received, former stats ar
 * No work complete, despite the increase in received documents
 
 **3: Key Recommendations**
-* Woah! Don't forget to swap Vendor D around!
+* Check for sufficient manpower within the team due to the increasing amounts of documents per agency and years.
+* Investigate the reason behind inconsistency of work before finding ways to solve them.
+* Tracking progress frequently at the end of every week will align the whole team on what has been, and has yet to be completed.
+* Paying close attention to agencies with a history of larger output can let the team prepare for and detect and address unexpected anomalies should they occur.
 
 </p>
 
@@ -179,20 +182,18 @@ Based on the insights and findings above, we would recommend the <b>Scan Hub tea
 * Addressing prioritized agencies and/or vendors and frequent monitoring of both categories in general
 
 <h3>1. Check for sufficient manpower within the team</h3>
-If possible, provide more team members via taking in consideration the overall amount of documents to handle, especially with the possibility of agencies that send higher counts. If there already is sufficient manpower by this point, the team could be re-organized to decide what which members should be responsible for which agencies, while allocating more members to agencies with a history of a larger amount of documents.
+If possible, provide more team members via taking in consideration the overall amount of documents to handle, especially with the possibility of agencies that send higher counts and increasing documents per year. If there already is sufficient manpower by this point, the team could be re-organized to decide what which members should be responsible for which agencies, while allocating more members to agencies with a history of a larger amount of documents.
 
-<h3>2. Solve the reason behind inconsistency of work</h3>
-Investigate the general management of documents to know the actual reason behind inconsistent/incomplete digitisation and returning of the above between months, before taking appropriate action to solve them. It is also recommended to find out why digitisation and returning of documents cannot match (in 2021, why did returning only last for 2 months while digitisation lasted for 6).
+<h3>2. Investigate the reason behind inconsistency of work</h3>
+Look into the general management of documents to know the reasons behind inconsistent/incomplete digitisation and returning of the above between months, before taking appropriate action. It is also recommended to find out why digitisation and returning of documents cannot match (in 2021, why did returning only last for 2 months while digitisation lasted for 6).
 
 <h3>3. Track progress frequently</h3>
 At the end of every week, use a bar graph to detect the remaining number of documents have yet to be digitised and returned, against what has been received per agency, to know what still needs to be addressed. Going one step further, the team can also use a line graph showing all the months of work per year, to track the number of documents within the 3 categories from all agencies combined for a wider overview of progress, as well as for each agency individually.
 
-<h3>4. Pay close attention to agencies with larger output</h3> Keep a close eye on any agency with a history of sending high amounts of documents, with Agency 0 as an example, to detect and address unexpected anomalies within its documents as soon as possible. While the possibility of high amounts of the above cannot be prevented, but being at least prepared for such can alleviate them over struggling to handle them from detecting them too late.
+<h3>4. Pay close attention to agencies with larger output</h3> 
+Keep a close eye on any agency with a history of sending high amounts of documents, with Agency 0 as an example, to detect and address unexpected anomalies within its documents as soon as possible. While the possibility of high amounts of the above cannot be prevented, but being at least prepared for such can alleviate them over the team struggling to handle them from detecting them too late.
 
 Note: While paying attention to vendors is ultimately still possible, agencies were chosen as they're a high-level measure, making it easier to track.
-
-<h3>5. Communicate with vendors for assistance</h3>
-Consult the necessary vendors associated with agencies that have provided a drastic overflow of documents, with Agency 0's Vendor D as an example. Afterwards, take note of these answers for the team to be aware of, and address appropriately. To re-iterate, the possibility of high amount of documents cannot be prevented and could happen any time, but being prepared for possible events can stop large amounts of unfinished work - which is what this whole analysis aims to solve.
 
 <h2 align="center">Assumptions and Caveats</h2>
 
