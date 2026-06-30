@@ -161,5 +161,6 @@ Note: While paying attention to vendors is ultimately still possible, agencies w
 Consult the necessary vendors associated with agencies that have provided a drastic overflow of documents, with Agency 0's Vendor D as an example. Afterwards, take note of these answers for the team to be aware of, and address appropriately. To re-iterate, the possibility of high amount of documents cannot be prevented and could happen any time, but being prepared for the event can stop large amounts of unfinished work - which is what this whole analysis aims to solve.
 
 <h2 align="center">Assumptions and Caveats</h2>
-Throughout the analysis, one key assumption had to be made to manage challenges within the data.
+Throughout the analysis, one key assumption/caveat had to be made to manage challenges within the data.
+
 * Document Size Assumptions: This whole analysis assumes that every document generally has the same size in terms of content to digitize, meaning that there are little to no documents that have more/less content that would take much longer/shorter to complete such. Otherwise, content size could be a major factor in affecting digitisation efforts, though it was not reflected in the original Excel sheet whatsoever, which just notes down the three types of stats (recieved/digitised/returned) per agency.
