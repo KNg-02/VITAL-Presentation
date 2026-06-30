@@ -27,7 +27,7 @@
 While being as concise as possible, the project's goal is to investigate the performance of the Scan Hub team's document management to uncover causes of large amounts of undigitised and unreturned documents, from key agencies and their vendors between the most relevant years of 2017 - 2021. This will allow us to provide recommendations for improved management, which can also be applied to any other agency in the future whenever necessary.
 </p>
 
-<h2 align="center">One-Minute Analysis Overview</h2>
+<h2 align="center">Quick Overview of Analysis</h2>
 <p>
     
 **1. Source of the document overflow:**
@@ -44,6 +44,15 @@ Total digitisation/return progress across 2021 and 2022:
 * 1894/44482 (4% returned overall)
 
 Note: There was no progress in 2022, so these are really just stats from 2021.
+
+**2: Issues found across 2021/2022:**
+2021:
+* Incomplete counts of work (e.g. 1423/1892 digitised in January)
+* Work suddenly stopping (work performed in Jan - February, before abruptly halting for the rest on the year, through reflecting 0 digitisation/returns)
+* Lack of consistency between digitisation and returning of documents (digtisation lasted 6 months, while returning lasted 2)
+
+2022:
+
 
 </p>
 
